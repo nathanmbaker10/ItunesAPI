@@ -1,0 +1,9 @@
+table{
+    border-color: #000000;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+body{
+    background-image: url(guide-itunes-backup.svg);
+}
