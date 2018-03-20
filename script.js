@@ -1,4 +1,5 @@
 function callApi() {
+    //
     var term = $("#Artistselectbox").val();
     var limit = $("#limitBox").val();
     $.ajax({
